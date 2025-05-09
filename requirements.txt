@@ -1,0 +1,7 @@
+pandas
+data-wrangler
+numpy
+matplotlib
+seaborn
+scipy
+unidecode

@@ -1,0 +1,8 @@
+# Ignorar todos los archivos CSV en la carpeta Data/
+Data/*.csv
+
+# También ignora archivos CSV en subcarpetas dentro de Data/
+Data/**/*.csv
+
+# Ignorar el virtual environment
+venv/
